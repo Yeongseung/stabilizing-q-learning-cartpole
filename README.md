@@ -147,14 +147,14 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-Yeongseung - [Blog](https://yeongseung.github.io/) | [GitHub](https://github.com/yeongseung)
+Yeongseung Song- [Blog](https://yeongseung.github.io/) | [GitHub](https://github.com/yeongseung)
 
 ## Citation
 
 If you find this work helpful, please cite the blog post:
 
 ```
-Yeongseung. (2026). Stabilizing Q-Learning in CartPole. 
+Yeongseung Song. (2026). Stabilizing Q-Learning in CartPole. 
 Retrieved from https://yeongseung.github.io/posts/mastering_cartpole/post/
 ```
 
